@@ -20,7 +20,6 @@ public class Ex504 {
 		ch = ch + 32;
 		//97(a) = 65 + 32
 		}
-		
 		System.out.println((char)ch);
 	}
 

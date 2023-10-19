@@ -1,4 +1,4 @@
-// if~else if문을 이요한 대소문자 변경하는 프로그램
+// if~else if문을 이용한 대소문자 변경하는 프로그램
 
 import java.util.Scanner;
 
@@ -17,7 +17,6 @@ public class Ex511 {
 		
 		ch = str.trim().charAt(1);
 		// s;dalkfj;asdkl
-		
 		
 		if(ch >= 'A' && ch <= 'Z') {
 			ch = (char)(ch+32);
