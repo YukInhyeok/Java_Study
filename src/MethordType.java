@@ -32,7 +32,7 @@ public class MethordType {
 		===========================================================
 			\n			[Enter] 키와 기능을 갖으며 줄을 바꾼다(new Line)
 			\t			탭 키로 일정한 간격을 띄운다(horizontal tab)
-			\b			백스페이스 기능으로 뒤로 한 칸 후진단다(backspace)			제어문자
+			\b			백스페이스 기능으로 뒤로 한 칸 후진한다(backspace)			제어문자
 			\r			동일한 줄의 맨 앞으로 커서만 옮긴다(carriage return)
 			\f			출력 용지를 한 페이지 넘긴다(form feed)
 			\a			경고음이 난다(alert)
