@@ -1,4 +1,4 @@
-package socket;
+package Ch02.socket;
 
 // 1단계 : 클래스 import
 import java.io.*;

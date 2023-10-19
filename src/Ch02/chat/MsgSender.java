@@ -1,4 +1,4 @@
-package chat;
+package Ch02.chat;
 /*
  * 송신을 위한 클래스 MsgSender
  -클래스 MsgSender : 메시지 송신을 수행하는 스레드

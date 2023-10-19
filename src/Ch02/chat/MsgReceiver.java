@@ -1,4 +1,4 @@
-package chat;
+package Ch02.chat;
 
 /*
  * 수신을 위한 클래스 MsgReceiver 

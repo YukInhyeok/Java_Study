@@ -1,4 +1,4 @@
-package udp;
+package Ch02.udp;
 
 /*
  * UDP 통신을 위한 서버 구현

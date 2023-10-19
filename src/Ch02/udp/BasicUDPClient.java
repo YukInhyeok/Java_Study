@@ -1,4 +1,4 @@
-package udp;
+package Ch02.udp;
 
 import java.net.*;
 import java.io.*;

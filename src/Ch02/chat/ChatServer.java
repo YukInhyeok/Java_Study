@@ -1,4 +1,4 @@
-package chat;
+package Ch02.chat;
 /*
  * 채팅을 위한 서버로 스레드인 MsgSender와 MsgReceiver를 사용
  - 클래스 ChatServer : 1:1 채팅을 위한 서버로 생성자에서 ServerSocket()을 생성
@@ -47,8 +47,8 @@ public class ChatServer {
 			printInfo();
 			
 			//10단계 : 서버 소켓에 입력과 출력을 위한 sender와 receiver 연결
-			MsgSender sender = new MsgSender("서버", socket);
-			MsgReceiver receiver = new MsgReceiver("서버", socket);
+			Ch02.chat.MsgSender sender = new Ch02.chat.MsgSender("서버: ", socket);
+			Ch02.chat.MsgReceiver receiver = new Ch02.chat.MsgReceiver("서버: ", socket);
 			
 			//11단계 : sender와  receiver 의 스레드를 실행
 			receiver.start();

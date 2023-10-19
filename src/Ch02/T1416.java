@@ -40,8 +40,6 @@ class JFrameEx16 extends JFrame implements ItemListener{
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 
-	
-	
 	// ActionEvent 클래스를 사용할 경우
 	// public void actionPerformed(ActionEvent e){..}
 	

@@ -1,4 +1,4 @@
-package chat;
+package Ch02.chat;
 
 /*
  * 채팅 클라이언트 클래스 ChatClient
@@ -48,8 +48,8 @@ public class ChatClient {
 	
 	public void communicate() {
 		//8단계 : 클라이언트 소켓에 입력과 출력을 위한  sender와 receiver를 연결
-		MsgSender sender = new MsgSender("클라이언트", socket);
-		MsgReceiver receiver = new MsgReceiver("클라이언트", socket);
+		Ch02.chat.MsgSender sender = new Ch02.chat.MsgSender("클라이언트: ", socket);
+		Ch02.chat.MsgReceiver receiver = new Ch02.chat.MsgReceiver("클라이언트: ", socket);
 		//9단계 :sender와 receiver를 실행
 		sender.start();
 		receiver.start();

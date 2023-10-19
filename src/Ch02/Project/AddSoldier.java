@@ -1,4 +1,4 @@
-package Project;
+package Ch02.Project;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
