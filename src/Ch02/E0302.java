@@ -1,3 +1,5 @@
+package Ch02;
+
 class Car1{
 	private int speed; // 외부에서 접근하는 것을 허용하지 않음
 

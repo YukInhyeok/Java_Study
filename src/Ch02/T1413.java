@@ -1,4 +1,4 @@
-// 컴포넌트 다루기 - JCehckBox, JRadioButton, JCombo, JList
+package Ch02;// 컴포넌트 다루기 - JCehckBox, JRadioButton, JCombo, JList
 
 import java.awt.BorderLayout;
 import java.awt.Color;

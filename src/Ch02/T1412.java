@@ -1,4 +1,4 @@
-// 컴포넌트 다루기 - JLabel과 JTextArea와 JScrollPane
+package Ch02;// 컴포넌트 다루기 - JLabel과 JTextArea와 JScrollPane
 
 import java.awt.BorderLayout;
 import java.awt.Color;

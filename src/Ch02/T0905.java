@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.util.Random;
 
 class BankAccount{

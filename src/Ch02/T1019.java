@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 

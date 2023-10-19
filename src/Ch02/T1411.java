@@ -1,4 +1,4 @@
-// CardLayout 클래스
+package Ch02;// CardLayout 클래스
 
 import javax.swing.JFrame;
 import java.awt.Container;

@@ -1,4 +1,4 @@
-// 플로우 레이아웃
+package Ch02;// 플로우 레이아웃
 
 import javax.swing.JFrame;
 import java.awt.Container;

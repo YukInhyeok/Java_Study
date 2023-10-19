@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.sql.*;
 
 import java.io.BufferedReader;

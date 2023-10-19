@@ -1,3 +1,5 @@
+package Ch02;
+
 /*
  * 배치관리자(Layout Management)
  - 정의 

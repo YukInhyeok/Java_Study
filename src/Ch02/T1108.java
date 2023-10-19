@@ -1,4 +1,4 @@
-/*
+package Ch02;/*
  * 문자 스트림을 사용한 서버 클라이언트 프로그램
  	1. InputStream 객체를 가지고 InputStreamReader 객체를 만들어 있다.
  		InputStreamReader reader = new InputStreamReader(in);

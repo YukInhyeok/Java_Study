@@ -1,7 +1,7 @@
-package Test2;
+package Ch02.Test2;
 
-import Test1.Account;
-import Test1.SavingAccount;
+import Ch02.Test1.Account;
+import Ch02.Test1.SavingAccount;
 
 public class CheckAccount extends Account {
 

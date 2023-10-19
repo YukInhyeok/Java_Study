@@ -1,3 +1,5 @@
+package Ch02;
+
 class Sum2{
 	int num=0;
 	

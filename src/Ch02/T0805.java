@@ -1,3 +1,5 @@
+package Ch02;
+
 class TestThread  implements Runnable{
 	
 	public void run() {

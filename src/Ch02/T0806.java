@@ -1,3 +1,5 @@
+package Ch02;
+
 class ThreadEx2 extends Thread{
 	String name;
 	public ThreadEx2(String name) {

@@ -1,4 +1,4 @@
-// GridLayout 클래스
+package Ch02;// GridLayout 클래스
 
 import javax.swing.JFrame;
 

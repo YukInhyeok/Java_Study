@@ -1,4 +1,4 @@
-package Test1;
+package Ch02.Test1;
 
 import java.util.Date;
 

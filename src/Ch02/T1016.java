@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.io.InputStream;
 
 public class T1016 {

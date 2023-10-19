@@ -1,4 +1,4 @@
-// 사원 정보 추가 프로그램
+package Ch02;// 사원 정보 추가 프로그램
 
 import java.io.*;
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-// 데이터베이스 접속 여부 프로그램
+package Ch02;// 데이터베이스 접속 여부 프로그램
 // 1단계 : java.sql.* 를 import
 
 import java.sql.*;

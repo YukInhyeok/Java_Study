@@ -1,10 +1,10 @@
-package Test1;
+package Ch02.Test1;
 
 public class AccountTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SavingAccount myAccount2 = new SavingAccount("ȫ�浿", 123456789, 0.34);
+		Ch02.Test1.SavingAccount myAccount2 = new Ch02.Test1.SavingAccount("ȫ�浿", 123456789, 0.34);
 		
 		myAccount2.deposit(4000000);
 		myAccount2.withdraw(3000000);

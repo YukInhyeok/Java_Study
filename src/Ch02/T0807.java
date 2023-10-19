@@ -1,3 +1,5 @@
+package Ch02;
+
 class RunnableEx2 implements Runnable{
 	public void run() {
 		int i=0;

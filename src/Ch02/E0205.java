@@ -1,3 +1,5 @@
+package Ch02;
+
 class Hap{
 	// 필드 선언
 	public int i,j;

@@ -1,4 +1,4 @@
-// 1단계 : javax.swing.JFrame 을 import
+package Ch02;// 1단계 : javax.swing.JFrame 을 import
 import javax.swing.JFrame;
 
 public class T1402 {

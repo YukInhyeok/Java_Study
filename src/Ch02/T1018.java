@@ -1,3 +1,5 @@
+package Ch02;
+
 import java.io.Console;
 
 public class T1018 {

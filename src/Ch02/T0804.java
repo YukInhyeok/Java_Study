@@ -1,4 +1,4 @@
-// 문제 : 1부터 9까지 출력하는 스레드를 구현하여 스레드를 실행
+package Ch02;// 문제 : 1부터 9까지 출력하는 스레드를 구현하여 스레드를 실행
 
 class MyThread extends Thread{
 /*	public void run() {

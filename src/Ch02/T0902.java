@@ -1,3 +1,5 @@
+package Ch02;
+
 class TestThread1 extends Thread{
 	int sum;
 	

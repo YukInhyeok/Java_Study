@@ -1,3 +1,5 @@
+package Ch02;
+
 class ThreadEx3 extends Thread{
 	String name;
 	

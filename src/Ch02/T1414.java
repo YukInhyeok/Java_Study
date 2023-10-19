@@ -1,4 +1,4 @@
-// JTable
+package Ch02;// JTable
 
 import java.awt.BorderLayout;
 import javax.swing.JFrame;

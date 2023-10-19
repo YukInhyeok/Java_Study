@@ -1,4 +1,4 @@
-// ItemEvent 클래스
+package Ch02;// ItemEvent 클래스
 
 import java.awt.BorderLayout;
 import java.awt.event.ItemEvent;

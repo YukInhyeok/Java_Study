@@ -1,4 +1,4 @@
-/*
+package Ch02;/*
   2. System.out 필드
    : OutputStream 타입의 필드 
    : OutputStream 변수로 참조를 시킬때

@@ -1,4 +1,4 @@
-// 1 단계 : javax.swing 패키지를  import 한다.
+package Ch02;// 1 단계 : javax.swing 패키지를  import 한다.
 
 import javax.swing.JFrame;
 

@@ -1,4 +1,4 @@
-/*
+package Ch02;/*
  1. this와 super
  
  this : 객체 자신을 의미하는 키워드
