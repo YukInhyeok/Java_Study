@@ -1,4 +1,4 @@
-// 메소드 오버로딩 예 -2
+package Ch01;// 메소드 오버로딩 예 -2
 
 class Test2{
 	public static int add(int a, int b) {

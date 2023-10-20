@@ -1,4 +1,4 @@
-// 학생을 위한 클래스의 생성자 구현과 객체 생성
+package Ch01;// 학생을 위한 클래스의 생성자 구현과 객체 생성
 
 class Student{
 	String name;

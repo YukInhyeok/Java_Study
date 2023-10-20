@@ -1,4 +1,4 @@
-// hasNext(), useDelimiter() 메소드 사용 예
+package Ch01;// hasNext(), useDelimiter() 메소드 사용 예
 
 import java.util.*;
 

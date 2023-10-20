@@ -1,3 +1,5 @@
+package Ch01;
+
 class Student2{
 	public String name;
 	

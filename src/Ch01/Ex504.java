@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.io.IOException;
 
 public class Ex504 {

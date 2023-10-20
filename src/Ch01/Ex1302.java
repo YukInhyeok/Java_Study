@@ -1,4 +1,4 @@
-/*
+package Ch01;/*
   Shape(추상클래스) - Circle
   					protected int radius; // 반지름 필드
   					Circle(int radius){

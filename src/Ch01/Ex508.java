@@ -1,4 +1,4 @@
-// 양수인지 음수인지 판단하는 프로그램
+package Ch01;// 양수인지 음수인지 판단하는 프로그램
 
 import java.util.Scanner;
 public class Ex508 {

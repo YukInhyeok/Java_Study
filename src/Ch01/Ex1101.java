@@ -1,3 +1,5 @@
+package Ch01;
+
 class vehicle{
 	// 이름
 	public String name = "차량";

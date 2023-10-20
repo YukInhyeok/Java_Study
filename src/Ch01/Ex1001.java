@@ -1,3 +1,5 @@
+package Ch01;
+
 // 1단계 class 생성
 class Car2{
 	private int speed;

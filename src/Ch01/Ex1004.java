@@ -1,3 +1,5 @@
+package Ch01;
+
 class CreditCard{
 	public String owner;
 	private long number;

@@ -1,4 +1,4 @@
-// 메소드 오버로딩 예 -3
+package Ch01;// 메소드 오버로딩 예 -3
 
 class Calculator{
 	//정사각형 넓이

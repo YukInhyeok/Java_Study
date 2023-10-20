@@ -1,4 +1,4 @@
-// if~else if문을 이용한 대소문자 변경하는 프로그램
+package Ch01;// if~else if문을 이용한 대소문자 변경하는 프로그램
 
 import java.util.Scanner;
 

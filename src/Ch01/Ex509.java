@@ -1,4 +1,4 @@
-// 두 정수 중에서 최대값과 최소값을 구하는 프로그램
+package Ch01;// 두 정수 중에서 최대값과 최소값을 구하는 프로그램
 
 import java.util.Scanner;
 public class Ex509 {

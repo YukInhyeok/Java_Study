@@ -1,4 +1,4 @@
-// 1단계 : java.util.Scanner 클래스를 import 한다.
+package Ch01;// 1단계 : java.util.Scanner 클래스를 import 한다.
 import java.util.*;
 import java.util.Scanner;
 public class Ex34 {

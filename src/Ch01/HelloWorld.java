@@ -1,3 +1,4 @@
+package Ch01;
 
 public class HelloWorld {	// 클래스 정의
 

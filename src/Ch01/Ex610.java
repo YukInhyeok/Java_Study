@@ -1,3 +1,5 @@
+package Ch01;
+
 import java.util.*;
 public class Ex610 {
 

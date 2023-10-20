@@ -1,3 +1,4 @@
+package Ch01;
 
 public class Ex602 {
 
