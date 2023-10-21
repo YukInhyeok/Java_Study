@@ -5,7 +5,7 @@ public class Ex1306 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 /*
- 	3. 자바의 조요 패키지 및 클래스
+ 	3. 자바의 주요 패키지 및 클래스
  	3.1 자바의 주요 패키지
  	- java.lang : 자바 프로그램에서 자주 이용하는 기본 클래스 제공
  	- java.io : 파일, 프린터, 모니터, 키보드 등의 다양한 입출력 관력 클래스 제공
