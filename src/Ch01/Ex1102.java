@@ -10,6 +10,7 @@ class vehicle2{
 	// Á¤¿ø
 	public int seater;
 
+
 	public void setMaxSpeed(double maxSpeed) {
 		this.maxSpeed = maxSpeed;
 	}

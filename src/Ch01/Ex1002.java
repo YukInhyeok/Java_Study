@@ -54,7 +54,8 @@ public class Ex1002 {
  				public String getName(){
  					return this.name;
  					}
- 				
+
+
  			}
  	
  */

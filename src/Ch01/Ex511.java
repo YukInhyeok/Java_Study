@@ -8,7 +8,7 @@ public class Ex511 {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
 		
-		String str; //asdfasdfasdf
+		String str;
 		char ch;  //a
 		
 		System.out.print("문자를 입력하세요. >> ");
@@ -16,7 +16,6 @@ public class Ex511 {
 		str = input.nextLine();
 		
 		ch = str.trim().charAt(1);
-		// s;dalkfj;asdkl
 		
 		if(ch >= 'A' && ch <= 'Z') {
 			ch = (char)(ch+32);
